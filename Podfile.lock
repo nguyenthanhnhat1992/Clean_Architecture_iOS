@@ -1,0 +1,112 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Differentiator (3.1.0)
+  - KIF (3.7.4):
+    - KIF/Core (= 3.7.4)
+  - KIF/Core (3.7.4)
+  - Mockingjay (2.0.1):
+    - Mockingjay/Core (= 2.0.1)
+    - Mockingjay/XCTest (= 2.0.1)
+  - Mockingjay/Core (2.0.1):
+    - URITemplate (~> 2.0)
+  - Mockingjay/XCTest (2.0.1):
+    - Mockingjay/Core
+  - "NSObject+Rx (4.4.1)":
+    - RxSwift (~> 4.3)
+  - ObjectMapper (3.4.2)
+  - Reusable (4.0.5):
+    - Reusable/Storyboard (= 4.0.5)
+    - Reusable/View (= 4.0.5)
+  - Reusable/Storyboard (4.0.5)
+  - Reusable/View (4.0.5)
+  - RxAlamofire (4.3.0):
+    - RxAlamofire/Core (= 4.3.0)
+  - RxAlamofire/Core (4.3.0):
+    - Alamofire (~> 4.5)
+    - RxSwift (~> 4)
+  - RxAtomic (4.4.2)
+  - RxBlocking (4.4.1):
+    - RxAtomic (~> 4.4)
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxGesture (2.0.1):
+    - RxCocoa (~> 4.3.1)
+    - RxSwift (~> 4.3.1)
+  - RxSwift (4.3.1)
+  - RxSwiftExt (3.4.0):
+    - RxSwiftExt/Core (= 3.4.0)
+    - RxSwiftExt/RxCocoa (= 3.4.0)
+  - RxSwiftExt/Core (3.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwiftExt/RxCocoa (3.4.0):
+    - RxCocoa (~> 4.0)
+    - RxSwiftExt/Core
+  - SwiftLint (0.31.0)
+  - Then (2.4.0)
+  - URITemplate (2.0.3)
+
+DEPENDENCIES:
+  - KIF (~> 3.7.4)
+  - Mockingjay (~> 2.0.1)
+  - "NSObject+Rx (~> 4.2)"
+  - ObjectMapper (~> 3.3)
+  - Reusable (~> 4.0)
+  - RxAlamofire (~> 4.0)
+  - RxBlocking (~> 4.1)
+  - RxCocoa (~> 4.1)
+  - RxDataSources (~> 3.0)
+  - RxGesture (~> 2.0.1)
+  - RxSwift (~> 4.1)
+  - RxSwiftExt (~> 3.1)
+  - SwiftLint
+  - Then (~> 2.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Differentiator
+    - KIF
+    - Mockingjay
+    - "NSObject+Rx"
+    - ObjectMapper
+    - Reusable
+    - RxAlamofire
+    - RxAtomic
+    - RxBlocking
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxSwift
+    - RxSwiftExt
+    - SwiftLint
+    - Then
+    - URITemplate
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  KIF: f3d01c109ee9d1cfe6b0f2bb2aa278e807e971e2
+  Mockingjay: 11a621880d2887f1775bdcf824341eb68f218450
+  "NSObject+Rx": 9884a92f19b610795c431e10b4e601913b59c9e9
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  Reusable: 188be1a54ac0691bc66e5bb24ec6eb91971b315b
+  RxAlamofire: 09624d0f2d48ed8b686e4eb4cf68e28cbd2df556
+  RxAtomic: d00e97c10db88c6f08540e0bf2752fc5a2404167
+  RxBlocking: 5508e90d36ca2304632dc9378ece4e9b5d4bf656
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxGesture: 26ede4ed13ffc6336d29dbd9a8dff229bdb72de7
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  RxSwiftExt: 01f8ecbeeb355698e9c75365ebe908b00dacf45d
+  SwiftLint: 7a0227733d786395817373b2d0ca799fd0093ff3
+  Then: 71866660c7af35a7343831f7668e7cd2b62ee0f2
+  URITemplate: ace0c4c46dcf8afe6e89b4060621852886b15c3b
+
+PODFILE CHECKSUM: 3104870e96c30c45754fe2f0d55806185e6b5adb
+
+COCOAPODS: 1.6.1
